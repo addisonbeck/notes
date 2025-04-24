@@ -1,0 +1,216 @@
+* Wild Mead Making: A Beginner's Framework
+
+** Traditional/Historical Context
+
+Wild fermentation is the oldest form of mead making, dating back thousands of years before commercial yeasts existed. Our ancestors didn't have sanitized laboratories or packets of specialized yeast—they relied on the naturally occurring wild yeasts present in honey, fruits, flowers, and the surrounding environment. This approach connects you to an ancient tradition and allows for the development of complex, place-specific flavors unique to your location and ingredients.
+
+** Practical Framework for Wild Mead
+
+*** 1. Gathering Your Materials
+- *Honey*: 2-3 pounds of raw, unfiltered honey per gallon of mead
+- *Water*: Spring water or filtered water (avoid chlorinated tap water)
+- *Fermentation vessel*: Glass carboy/jug or food-grade plastic bucket with airlock
+- *Wild yeast source*: Fresh fruits with their skins (berries, apples, etc.), flowers, or unpasteurized honey
+- *Optional additions*: Fresh herbs, fruit peels, spices
+- *Simple equipment*: Funnel, wooden spoon, measuring cups, bottles for aging
+
+*** 2. Basic Process
+
+**** Creating Your Wild Yeast Starter
+1. Mix 1 part raw honey with 4 parts unchlorinated water in a wide-mouth jar
+2. Add wild yeast sources (handful of berries, flower blossoms, etc.)
+3. Cover with cheesecloth or coffee filter secured with rubber band
+4. Stir vigorously 2-3 times daily to incorporate oxygen
+5. Watch for bubbling activity (usually 3-7 days depending on temperature)
+6. When consistently bubbling and showing signs of fermentation, your starter is ready
+
+**** Making Your Mead
+1. Mix honey and water in your fermentation vessel (typically 2-3 pounds per gallon)
+2. Add your active wild yeast starter (about 1 cup per gallon)
+3. Stir vigorously to incorporate oxygen
+4. Cover with airlock
+5. Place in a consistent temperature environment (65-75°F/18-24°C is ideal)
+6. Allow to ferment for 2-6 weeks until bubbling slows significantly
+7. Rack (transfer) to secondary vessel, leaving sediment behind
+8. Age for at least 3 months (longer aging often improves flavor)
+
+** Safety Considerations
+
+- Clean all equipment thoroughly with hot water (avoid harsh chemical sanitizers)
+- Use common sense when evaluating your mead—if it smells putrid or moldy, discard it
+- Wild fermentation occasionally produces unusual aromas during fermentation; generally, trust your senses
+- The acidic and alcoholic environment typically prevents harmful bacteria from thriving
+- Start with small batches (1 gallon or less) until you gain confidence
+
+** Variations and Alternatives
+
+- *Fruit Mead (Melomel)*: Add 1-2 pounds of fresh fruit per gallon either in primary or secondary fermentation
+- *Herb/Spice Mead (Metheglin)*: Add herbs and spices like cinnamon, rosemary, or thyme
+- *Flower Mead*: Include edible flowers like dandelion, elderflower, or lavender
+- *Seasonal Approach*: Use what's fresh and available in your area when starting your ferment
+
+** Expected Outcomes and Timeline
+
+- *First 1-7 days*: Development of yeast starter
+- *Weeks 1-2*: Active primary fermentation (expect vigorous bubbling)
+- *Weeks 3-6*: Slowing fermentation
+- *Months 1-3*: Initial aging and clarification
+- *Months 3+*: Extended aging for improved flavor (patience rewards)
+
+Wild fermented meads typically:
+- Have more complex, less predictable flavor profiles
+- Develop unique regional characteristics
+- May finish drier than commercial yeast meads if allowed to ferment completely
+- Often improve significantly with age (6-12 months or longer)
+
+** Troubleshooting Tips
+
+- *No fermentation after 7 days*: Try adding more fresh fruit or flowers, keep in a warmer location
+- *Mold on surface*: Remove carefully if small spots; if extensive, it's best to start over
+- *Overly slow fermentation*: Check temperature (too cool slows fermentation), stir to reinvigorate
+- *Strange smells*: Some unusual aromas are normal during wild fermentation; they often resolve with aging
+- *Too sweet/incomplete fermentation*: Be patient, wild yeasts can work more slowly; ensure temperature is warm enough
+
+** Final Thoughts
+
+Wild fermentation is as much art as science. Each batch will be unique, reflecting your local environment, seasons, and ingredients. Embrace the variability and keep notes on your process—this journey connects you with thousands of years of human tradition while creating something truly your own.
+
+Remember that your first batch is the beginning of a learning experience. With each successive batch, you'll develop more intuition for the process and create meads that reflect your local terroir in ways that commercial yeasts simply cannot match.
+
+* Determining Fruit Quantities for Wild Mead
+
+** Traditional Context
+
+Historically, meadmakers would have used seasonal abundance of fruits without precise measurements, working with what was available during harvest. Traditional meads often featured whatever fruits were plentiful, using visual cues and experience rather than exact measurements.
+
+** Practical Guidelines for Fruit Quantities
+
+*** Basic Framework
+- *Light fruit character*: 0.5-1 pound of fruit per gallon
+- *Medium fruit character*: 1-2 pounds of fruit per gallon
+- *Strong fruit presence*: 2-3+ pounds of fruit per gallon
+
+*** Factors Affecting Fruit Quantity Decisions
+
+1. *Fruit Intensity*: 
+   * Subtle fruits (apples, pears) may need 2-3 pounds per gallon
+   * Bold fruits (blackberries, cherries) might only need 1-1.5 pounds
+   * Intense fruits (elderberry, black currant) can work well at 0.5-1 pound
+
+2. *Fruit Form*:
+   * Fresh fruit: Follow the basic guidelines above
+   * Frozen fruit: Often releases more flavor; use about 10-15% less
+   * Dried fruit: Concentrated flavor; use approximately 1/4 to 1/3 the weight of fresh
+
+3. *Timing of Addition*:
+   * Primary fermentation: May lose some aromatics but integrates well
+   * Secondary fermentation: Preserves more fresh fruit character
+   * Split additions: Some in primary for fermentable sugars, some in secondary for aroma
+
+** Practical Approach for Beginners
+
+For your first batches, I recommend:
+
+1. *Start with medium-intensity fruits* (berries, plums, peaches)
+2. *Use 1-1.5 pounds per gallon* as a balanced starting point
+3. *Keep detailed notes* on quantities, timing, and resulting flavor
+4. *Consider split additions* - half in primary and half in secondary
+
+** Safety Considerations
+- Wild fruits may introduce stronger wild yeast populations - beneficial for wild fermentation
+- Wash fruits gently to remove obvious debris but preserve natural yeasts
+- Avoid fruit from areas sprayed with pesticides when possible
+
+** Variations by Fruit Type
+
+*** Berries
+- Strawberries: 1-2 pounds/gallon (subtle flavor in fermentation)
+- Raspberries: 1-1.5 pounds/gallon (aromatic, distinctive)
+- Blackberries: 1-1.5 pounds/gallon (bold, tannic)
+- Blueberries: 1.5-2 pounds/gallon (need quantity for flavor impact)
+
+*** Stone Fruits
+- Cherries: 1-2 pounds/gallon
+- Plums: 1-2 pounds/gallon
+- Peaches/Apricots: 1.5-2.5 pounds/gallon
+
+*** Orchard Fruits
+- Apples: 2-3 pounds/gallon (or use fresh cider)
+- Pears: 2-3 pounds/gallon
+
+** Experimental Approach
+
+One traditional method is the "fruit-forward" approach:
+1. Fill your fermentation vessel about 1/3 full with fruit
+2. Add honey-water mixture to fill
+3. Allow natural fermentation to proceed
+
+This intuitive method lets the visual proportion guide you rather than precise weights.
+
+** Troubleshooting
+
+- *Too little fruit flavor*: Add more in secondary or consider fruit extracts
+- *Too intense/overpowering*: Use less next time or balance with complementary ingredients
+- *Unexpected flavors*: Wild yeasts and fruits interact unpredictably - embrace the uniqueness or adjust aging time
+
+* Fruit in Secondary Fermentation vs. Bottling
+
+** Clarifying Secondary Fermentation
+
+When I refer to adding fruit in "secondary fermentation," I'm not talking about the final bottles. Let me clarify the typical stages in traditional mead making:
+
+1. *Primary Fermentation*: The initial vigorous fermentation in your main fermentation vessel (carboy/bucket with airlock).
+
+2. *Secondary Fermentation*: After primary slows down (typically 2-4 weeks), you transfer (rack) the mead to another vessel, leaving behind the sediment (lees). This second vessel is also equipped with an airlock and is where:
+   - Slower, continued fermentation occurs
+   - Clarity improves as particles settle
+   - Flavors develop and integrate
+   - /Optional fruit additions happen here/
+
+3. *Bottling*: After secondary fermentation and clearing (typically months later), you transfer the mead to bottles for final aging and storage.
+
+** The Process of Adding Fruit in Secondary
+
+Adding fruit in secondary means:
+
+1. Transfer your mead from primary to a clean carboy/vessel, leaving sediment behind
+2. Add your prepared fruit to this secondary vessel
+3. Fit with airlock
+4. Allow to ferment slowly for weeks to months
+5. Rack off the fruit and sediment when desired flavor is achieved
+6. /Then/ proceed to bottle after the mead clears
+
+** Traditional Perspective on Secondary Additions
+
+Historically, meadmakers would often add seasonal fruits as they became available, creating layers of flavor throughout the year. The secondary vessel would be a barrel or large container where the mead continued to develop before eventually being drawn off for consumption.
+
+** Practical Benefits of Secondary Fruit Additions
+
+- Preserves more fresh fruit aromas that would be lost in primary fermentation
+- Allows you to build complex flavors in stages
+- Gives you more control over the final product
+- Reduces the chance of clogging airlocks with vigorous fermentation
+- Creates distinct layers of flavor
+
+** Safety and Process Considerations
+
+- Adding fruit in secondary will restart fermentation to some degree
+- Ensure your vessel has headspace to prevent overflow
+- Monitor the airlock for the first few days after fruit addition
+- Never bottle mead with actively fermenting fruit! This could create bottle bombs
+- Typically wait 1-3 months after fruit addition before bottling
+- Make sure fermentation is complete before bottling (consistent gravity readings)
+
+** Traditional Timeline Example
+
+1. Primary fermentation: 2-4 weeks
+2. Transfer to secondary vessel with fruit: 1-3 months
+3. Rack off fruit into another vessel for clearing: 1-3 months
+4. Bottle when clear and stable (no more fermentation)
+5. Age in bottles for optimal flavor: 3+ months
+
+** Alternative Approaches
+
+Some traditional meadmakers do practice "bottle conditioning" with small amounts of fruit or honey, but this is an advanced technique that requires precise calculations to avoid dangerous pressure buildup. As a beginner with wild yeasts (which have unpredictable attenuation), I strongly recommend completing all fruit fermentation before bottling.
+
+The sequence is always: primary → secondary (with/without fruit) → clearing → bottling → aging.

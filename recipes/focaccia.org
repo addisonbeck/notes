@@ -1,0 +1,96 @@
+#+TITLE: Focaccia
+
+* Focaccia
+#+begin_quote
+Original recipe from
+https://www.kingarthurbaking.com/recipes/big-and-bubbly-focaccia-recipe
+It has been modified a bit to work in a 10x14 Detroit Style Pizza pan
+#+end_quote
+
+** Ingredients
+- Flour: 4 1/2 cups (540g)
+- Water: 1 7/8 cups (450g)
+- Olive oil: 3 tablespoons (45g) for the dough, plus extra for the pan
+- Salt: 2 1/4 teaspoons
+- Yeast: 3 teaspoons (or 1 tablespoon)
+- Sugar: 1 1/2 teaspoons
+
+** Bakers Percentage
+- Flour: 100%
+- Water: 83.3%
+- Olive oil: 8.3%
+- Salt: 2.5%
+- Yeast: 1.7%
+- Sugar: 1.1%
+
+** Instructions
+1. Mix all the ingredients together in a large bowl
+2. Cover and autolyse for 15 minutes.
+3. Perform a bowl fold
+4. Wait 15 minutes
+5. Perform a second bowl fold
+6. Wait 15 minutes
+7. Perform a 3rd bowl fold
+8. Wait 15 minutes
+9. Perform a 4th bowl fold
+10. Cover the dough and let it rise for about an hour. It will be very
+    puffy and may have a few bubbles on the surface.
+11. Apply oil to your pan. Optionally add a strip of parchment that
+    overhangs to help get the bread out later.
+12. Gently transfer the dough to the pan. Handle it minimally.
+13. Cover and proof for 1 to 1.5 hours. It should be marshmallowy and
+    jiggly, and have spread to the edge of the pan.
+14. Toward the end of the rise, preheat the oven to 475°F with racks in
+    the upper and lower thirds.
+15. Once the dough has risen dimple it.
+16. Add toppings. Olive oil and flaky salt is a requirement but anything
+    else works too.
+17. Bake the focaccia on the lower rack for 30 to 35 minutes, until
+    brown in the highest spots and golden in the crevices. If necessary,
+    move the pan to the top rack and broil briefly for the final 1 to 2
+    minutes, watching carefully, to achieve the desired color.
+18. Remove the focaccia from the oven. Using the parchment tabs as
+    handles, lift the focaccia out of the pan and transfer it to a wire
+    rack or cutting board; remove the parchment strip. Turn off the oven
+    and slide the focaccia back into the oven, directly on the lower
+    rack, for 5 to 7 minutes, until the sides are golden brown and
+    crisp. Remove the focaccia from the oven once again and transfer it
+    to a wire rack to cool completely.
+    
+
+* Sourdough Focaccia
+
+** Ingredients
+
+*** Preferment
+- 100g active sourdough starter
+- 150g bread flour
+- 150g water
+
+*** Main Dough
+- All of the preferment
+- 350g bread flour
+- 200-225g water (start with 200g, adjust as needed)
+- 10g salt
+- 30g olive oil (plus more for the pan and topping)
+
+** Instructions
+
+*Day 1 - Evening:*
+1. Mix preferment ingredients until well combined
+2. Cover and let sit at room temperature for 12 hours
+
+*Day 2 - Morning:*
+1. Mix preferment with remaining flour, 200g water, salt, and oil
+2. Adjust hydration if needed - dough should be quite wet but manageable
+3. Perform 3-4 sets of stretch and folds at 30-minute intervals
+4. Let bulk ferment until puffy and increased in volume (2-3 hours depending on temperature)
+5. Transfer to oiled container, cover, and place in refrigerator (8-24 hours)
+
+*Day 2 - Evening or Day 3:*
+1. Remove from refrigerator 2 hours before baking
+2. Oil a sheet pan generously
+3. Gently transfer dough to pan and stretch to fill (if it resists, let rest 20 minutes and try again)
+4. Dimple with oiled fingertips, drizzle with more olive oil and add toppings
+5. Final proof at room temperature until puffy (1-2 hours)
+6. Bake at 450°F for 20-25 minutes until golden
